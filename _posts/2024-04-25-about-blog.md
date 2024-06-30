@@ -4,8 +4,8 @@ description: >-
   블로그 소개 포스팅.
 author: Taeil Nam
 date: 2024-04-25 13:38:00 +0900
-categories: [Etc, 블로그]
-tags: [blog]
+categories: [Etc, blog]
+tags: [Etc, blog]
 pin: true
 ---
 

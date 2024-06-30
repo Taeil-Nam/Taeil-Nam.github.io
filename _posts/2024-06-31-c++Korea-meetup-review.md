@@ -3,9 +3,9 @@ title: C++ Korea meetup 후기
 description: >-
   C++ Korea meetup 후기.
 author: Taeil Nam
-date: 2024-06-31 11:38:00 +0900
+date: 2024-06-30 11:38:00 +0900
 categories: [Experience, C++ Korea]
-tags: [Experience]
+tags: [Experience, C++ Korea]
 pin: true
 ---
 
