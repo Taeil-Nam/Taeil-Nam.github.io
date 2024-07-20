@@ -5,7 +5,7 @@ order: 4
 ---
 
 # Taeil Nam 🎮
-![image](/assets/img/about/fallout.jpg)
+![image](/assets/img/about/cyberpunk2077.jpeg)
 
 ---
 
@@ -46,7 +46,7 @@ order: 4
 	- 국내 대기업, 외국계 벤더사의 오퍼에도 불구하고 꿈을 위해 퇴사했다.
 - 27살 하반기 : 프로그래밍 공부를 위해 42Seoul에 지원 후 합격했다.
 - 28살 : 인생 게임 "세키로"의 모든 업적을 달성했다.
-- 28살 : 42Seoul의 여정을 마무리 했다.
+- 29살 : 42Seoul의 여정을 마무리 했다.
 - 현재 : 게임 프로그래밍 공부 중
 
 ---
