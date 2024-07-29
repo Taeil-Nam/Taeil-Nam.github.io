@@ -5,7 +5,7 @@ order: 4
 ---
 
 # Taeil Nam 🎮
-![image](/assets/img/about/cyberpunk2077.jpeg)
+![image](/assets/img/about/Nampaca.png)
 
 ---
 
